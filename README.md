@@ -14,7 +14,9 @@ matplotlib
 cartopy
 
 (optional) Thorsten Becker's sh_syn tool (included with HC):
+
 https://github.com/geodynamics/HC
 or here:
+
 https://github.com/thwbecker/shansyn
 
